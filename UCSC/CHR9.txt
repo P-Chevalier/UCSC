@@ -1,3 +1,4 @@
+hub chr9_test
 track TEST_CHR9
 bigDataURl https://raw.githubusercontent.com/P-Chevalier/UCSC/master/chr9_test.gff
 shortLabel test9
