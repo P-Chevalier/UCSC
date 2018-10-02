@@ -1,5 +1,6 @@
 hub chr9_test
 shortLabel test9
+longLabel CHR9 TEST Track
 type GFF
 genomesFiles genomes.txt
 email pcheva5555@gmail.com
