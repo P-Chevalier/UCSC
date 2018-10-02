@@ -1,0 +1,7 @@
+track TEST_CHR9
+shortLabel Test9
+longLabel CHR9 Test Data
+visibility pack
+itemRgb On
+bigDataURl https://raw.githubusercontent.com/P-Chevalier/UCSC/master/chr9_test.gff
+type GFF

@@ -1,8 +1,6 @@
 hub chr9_test
-track TEST_CHR9
-bigDataURl https://raw.githubusercontent.com/P-Chevalier/UCSC/master/chr9_test.gff
 shortLabel test9
 type GFF
+genomesFiles genomes.txt
 email pcheva5555@gmail.com
-longLabel CHR9 TEST Track
 descriptionUrl https://raw.githubusercontent.com/P-Chevalier/UCSC/master/https://raw.githubusercontent.com/P-Chevalier/UCSC/master/test.html
